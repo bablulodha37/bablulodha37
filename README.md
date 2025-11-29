@@ -2,8 +2,8 @@
 <h3 align="center">Java Backend & Full-Stack Developer</h3>
 
 <p align="center">
-  🚀 Passionate Java Developer skilled in Spring Boot, REST APIs, MySQL & React.js  
-  with strong DSA foundation (100+ LeetCode problems solved).
+  🚀 Java Developer | Spring Boot | REST APIs | MySQL | React.js  
+  💡 Strong DSA Foundation (100+ LeetCode Problems Solved)
 </p>
 
 ---
@@ -19,80 +19,75 @@
 
 ## 🛠️ Tech Stack
 
-### **Backend**
-- Java  
-- Spring Boot  
+### 🚀 Backend
+- Java, Spring Boot  
 - REST APIs  
-- Hibernate / JDBC  
+- Hibernate, JDBC  
 - MySQL  
 
-### **Frontend**
+### 🎨 Frontend
 - React.js  
 - JavaScript  
-- HTML5  
-- CSS3  
+- HTML5, CSS3  
 
-### **Core**
-- DSA (Java)  
-- OOP  
-- Operating Systems  
+### 🧠 Core
+- Data Structures (Java)  
+- OOP, OS Concepts  
 
-### **Tools**
+### 🛠 Tools
 - Git, GitHub  
 - Postman  
 - Linux  
-- SMTP  
 - Google Cloud  
+- SMTP  
 
 ---
 
 ## 🚀 Projects
 
 ### 🌱 **EcoSaathi – Smart E-Waste Management System**
-**Tech:** Spring Boot, React.js, MySQL, Ollama AI Chatbot  
-- Designed full backend architecture  
-- Created REST APIs, MySQL schema, authentication & dashboards  
-- Integrated AI chatbot using LLM  
-- Built React front-end interface  
+**Tech:** Spring Boot, React.js, MySQL, AI Chatbot (Ollama LLM)  
+- Developed full backend, REST APIs & MySQL schema  
+- Created AI chatbot using LLM  
+- Built dashboards & React UI  
 
-### 🛒 **Amazon UI Clone (React.js + CSS)**
-- Built a complete responsive homepage  
-- Implemented reusable components  
-- Shopping UI with clean UX  
+### 🛒 **Amazon UI Clone (React + CSS)**
+- Responsive components  
+- Clean UI similar to Amazon homepage  
 
 ### 📚 **Library Management System (HTML/CSS + JS)**
-- CRUD operations for books  
-- Simple UI, search + filter features  
+- CRUD operations  
+- Book management UI  
 
 ---
 
 ## 💼 Experience
 
 ### **Project Intern – Full Stack Developer**
-- Developed REST APIs for authentication & admin modules  
-- Built Hibernate entities & MySQL schema  
-- Created React UI + API integrations  
-- Implemented SMTP email automation  
+- Built REST APIs for authentication & admin modules  
+- Designed MySQL schema & Hibernate entities  
+- Developed React UI + API integration  
+- Configured SMTP email automation  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **Winner – Coding Marathon (2025) @ Geeks of Gurukul**  
-- ⭐ **Top Performer – Weekly Test (2025)**  
-- 💡 **Solved 100+ DSA questions on LeetCode**  
+- 🥇 Winner – Coding Marathon (2025)  
+- ⭐ Top Performer – Weekly Test  
+- 💡 100+ DSA Problems Solved on LeetCode  
 
 ---
 
 ## 🎓 Education
-- **B.Tech – CSE (2024–2027)**, Oriental College of Technology, Bhopal  
-- **Diploma – CSE**, Govt. Polytechnic College  
+- **B.Tech (CSE)** – Oriental College of Technology, Bhopal (2024–2027)  
+- **Diploma (CSE)** – Government Polytechnic College  
 
 ---
 
 ## 📜 Certifications
 - Cybersecurity Fundamentals – IBM  
-- Cybersecurity Analyst Job Simulation – Forage  
-- DSA Using Java – Infosys Springboard  
+- Cybersecurity Analyst – Forage  
+- DSA in Java – Infosys Springboard  
 - DBMS – Infosys Springboard  
 - Email Writing Skills – Infosys  
 - Fundamentals of Web Apps – IBM  
@@ -100,10 +95,10 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=bablulodha37&theme=highcontrast" />
+ <img src="https://streak-stats.demolab.com?user=bablulodha37&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -116,8 +111,5 @@
 
 ---
 
-## 💬 Fun Quote
-> *“Code hard. Stay humble. Automate everything.”*
-
----
-
+## 💬 Fun Quote  
+> *“Code hard. Stay humble. Ship fast.”*  
