@@ -95,21 +95,5 @@
 
 ---
 
-# 📊 GitHub Stats (Dark Theme)
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=bablulodha37&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=bablulodha37&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablulodha37&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 💬 Fun Quote  
 > *“Code hard. Stay humble. Ship fast.”*  
