@@ -1,99 +1,80 @@
-<h1 align="center">Hi 👋, I'm Bablu Lodha</h1>
-<h3 align="center">Java Backend & Full-Stack Developer</h3>
+<!-- Modern Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Bablu+Lodha!;Java+Backend+Developer;Full-Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL" />
+</h1>
 
 <p align="center">
-  🚀 Java Developer | Spring Boot | REST APIs | MySQL | React.js  
-  💡 Strong DSA Foundation (100+ LeetCode Problems Solved)
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-Pro-green?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/MySQL-DB-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/React-UI-blue?style=for-the-badge&logo=react"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
-- 📞 **Phone:** 6261610574  
-- ✉️ **Email:** bablulodha37@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/bablu-lodha  
-- 💻 **GitHub:** https://github.com/bablulodha37  
-- 🧠 **LeetCode:** https://leetcode.com/u/bablulodha  
+## 🚀 About Me
+- 🔥 Java Backend Developer  
+- 🌱 Experienced in **Spring Boot, REST APIs, MySQL, React.js**  
+- 🧠 Solved **100+ DSA Problems** on LeetCode  
+- 💡 Love building real-world apps & scalable backend systems  
+- ⚡ Always learning new tech  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Modern Icons)
 
-### 🚀 Backend
-- Java, Spring Boot  
-- REST APIs  
-- Hibernate, JDBC  
-- MySQL  
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,postman" />
+</p>
 
-### 🎨 Frontend
-- React.js  
-- JavaScript  
-- HTML5, CSS3  
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
-### 🧠 Core
-- Data Structures (Java)  
-- OOP, OS Concepts  
-
-### 🛠 Tools
-- Git, GitHub  
-- Postman  
-- Linux  
-- Google Cloud  
-- SMTP  
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,gcp" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🌟 Featured Projects
 
 ### 🌱 **EcoSaathi – Smart E-Waste Management System**
-**Tech:** Spring Boot, React.js, MySQL, AI Chatbot (Ollama LLM)  
-- Developed full backend, REST APIs & MySQL schema  
-- Created AI chatbot using LLM  
-- Built dashboards & React UI  
-
-### 🛒 **Amazon UI Clone (React + CSS)**
-- Responsive components  
-- Clean UI similar to Amazon homepage  
-
-### 📚 **Library Management System (HTML/CSS + JS)**
-- CRUD operations  
-- Book management UI  
+🧩 Spring Boot + React + MySQL + AI Chatbot (Ollama LLM)  
+🔗 Full backend + dashboards  
+🤖 AI chatbot integration  
 
 ---
 
-## 💼 Experience
-
-### **Project Intern – Full Stack Developer**
-- Built REST APIs for authentication & admin modules  
-- Designed MySQL schema & Hibernate entities  
-- Developed React UI + API integration  
-- Configured SMTP email automation  
+### 🛒 **Amazon UI Clone**
+🎨 React.js + CSS  
+📱 Fully responsive  
+🧩 Reusable components  
 
 ---
 
-## 🏆 Achievements
-- 🥇 Winner – Coding Marathon (2025)  
-- ⭐ Top Performer – Weekly Test  
-- 💡 100+ DSA Problems Solved on LeetCode  
+### 📚 **Library Management System**
+🔧 HTML/CSS + JS (CRUD App)  
+📘 Book management + search  
+
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/bablu-lodha">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
+  </a>
+  <a href="mailto:bablulodha37@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px"/>
+  </a>
+  <a href="https://github.com/bablulodha37">
+    <img src="https://skillicons.dev/icons?i=github" width="50px"/>
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
-- **B.Tech (CSE)** – Oriental College of Technology, Bhopal (2024–2027)  
-- **Diploma (CSE)** – Government Polytechnic College  
-
----
-
-## 📜 Certifications
-- Cybersecurity Fundamentals – IBM  
-- Cybersecurity Analyst – Forage  
-- DSA in Java – Infosys Springboard  
-- DBMS – Infosys Springboard  
-- Email Writing Skills – Infosys  
-- Fundamentals of Web Apps – IBM  
-- Google Cloud Skill Badges  
-
----
-
-## 💬 Fun Quote  
-> *“Code hard. Stay humble. Ship fast.”*  
+## ✨ Quote of the Day
+> *"Write code that feels like magic, but works like engineering."*  
