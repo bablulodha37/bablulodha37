@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🔥 Java Backend Developer  
 - 🌱 Experienced in **Spring Boot, REST APIs, MySQL, React.js**  
-- 🧠 Solved **100+ DSA Problems** on LeetCode  
+- 🧠 Solved **300+ DSA Problems** on LeetCode  
 - 💡 Love building real-world apps & scalable backend systems  
 - ⚡ Always learning new tech  
 
@@ -44,8 +44,9 @@
 
 ### 🌱 **EcoSaathi – Smart E-Waste Management System**
 🧩 Spring Boot + React + MySQL + AI Chatbot (Ollama LLM)  
-🔗 Full backend + dashboards  
-🤖 AI chatbot integration  
+Built 30+ REST APIs with Spring Boot  
+Implemented JWT authentication & role-based access  
+Integrated AI chatbot and real-time tracking  
 
 ---
 
