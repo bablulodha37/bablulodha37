@@ -23,7 +23,7 @@
 
 ## 🎓 Education
 - 🎓 **B.Tech CSE** – Oriental College of Technology, Bhopal *(2024–2027)* | CGPA: 7.5  
-- 🎓 **Diploma CSE** – Govt. Polytechnic College, Raghogarh *(2021–2024)* | CGPA: 8.45  
+- 🎓 **Diploma CSE** – Govt. Polytechnic College, Raghogarh *(2021–2024)* | CGPA: 8.5  
 
 ---
 
