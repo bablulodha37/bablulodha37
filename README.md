@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Java Developer (Spring Boot + React)  
-- 🧠 Solved **300+ DSA problems** (LeetCode, GFG, HackerRank)  
+- 🧠 Solved **300+ DSA problems** (LeetCode, GFG, HackerRank) 
 - ⚡ Focused on **scalable backend systems & clean architecture**  
 - 🔐 Experienced in **JWT Authentication & Role-Based Access Control**  
 - 🌱 Currently exploring **Microservices & Cloud Deployment (AWS, GCP)**  
